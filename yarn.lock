@@ -629,7 +629,7 @@
 
 "@developwithpassion/arrays_js@git+https://github.com/developwithpassion/arrays_js.git":
   version "0.0.1"
-  resolved "git+https://github.com/developwithpassion/arrays_js.git#17c749a4ad5943f2e7e68b62eb400a85b88c823f"
+  resolved "git+https://github.com/developwithpassion/arrays_js.git#3dd12a6c23a6a3f531f7536049fb7aa0ed095f0e"
   dependencies:
     "@developwithpassion/curry_js" "git+https://github.com/developwithpassion/curry_js.git"
 

@@ -2,7 +2,7 @@
   "author": "Jean-Paul S. Boodhoo",
   "name": "@developwithpassion/matchers_js",
   "description": "functional matchers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": ""
   },
